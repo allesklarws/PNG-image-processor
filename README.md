@@ -10,5 +10,5 @@ Made by Shuai W. 2014
 - Image cut.
 - Chess pattern generation with different colors and offsets.
 - Image drifting with timer-setup / -controlling.
-- 
+
 Viel Spaß / Have fun :=)
